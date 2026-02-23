@@ -31,8 +31,9 @@ A powerful, context-aware Telegram chatbot powered by **Groq** and the **Llama-3
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/d-hackmt/Smart-Telegram-chatbot.git
+
+cd Smart-Telegram-chatbot
 ```
 
 ### 2. Create a Virtual Environment
